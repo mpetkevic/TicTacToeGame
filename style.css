@@ -1,0 +1,41 @@
+.karkasas {
+    margin: auto;
+    padding-top: 30px;
+    padding-left: 40px;
+    width: 300px;
+    height: 400px;
+    background: #dcdcdc;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+.langelis {
+    border: 1px solid black;
+	width: 40px;
+    height: 40px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.virsus td {
+    border-top: none;
+ }
+ 
+.apacia td {
+    border-bottom: none;
+}
+
+.kaire {
+    border-left: none;
+}
+
+.desine {
+    border-right: none;
+}
+
+a {
+    text-decoration: none;
+}
